@@ -1,24 +1,19 @@
 # vue-todo-ts
 
-## Project setup
-```
-npm install
-```
+로컬 스토리지를 이용한 타입스크립트 학습용 Todo 웹페이지입니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 구현 기능
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<ul>
+  <li>Todo 추가</li>
+  <li>Todo 읽기</li>
+  <li>Todo 수정</li>
+  <li>Todo 삭제</li>
+</ul>
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 기술 스택
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<ul>
+  <li>Vue.js</li>
+  <li>TypeScript</li>
+</ul>
